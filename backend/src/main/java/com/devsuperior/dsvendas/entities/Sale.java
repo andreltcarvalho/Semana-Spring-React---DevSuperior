@@ -1,4 +1,4 @@
-package com.fast.fastguiche.entities;
+package com.devsuperior.dsvendas.entities;
 
 import java.time.LocalDate;
 
