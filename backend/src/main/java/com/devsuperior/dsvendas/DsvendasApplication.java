@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FastguicheApplication {
+public class DsvendasApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FastguicheApplication.class, args);
+		SpringApplication.run(DsvendasApplication.class, args);
 	}
 
 }
