@@ -13,8 +13,8 @@
 <h2> Project Status </h2>
 <p> Done<p>
 <h2> Developer</h2>
-<p> Front end deployed at <a href="https://andrecarvalho-dsvendas.netlify.app/dashboard">Netlify</a></p>
-<p> Backe end API deployed at <a href="https://dashboard.heroku.com/apps/loja-spring-boot-andre">Heroku</a></p>
+<p> Front end deployed at <a target="_blank" href="https://andrecarvalho-dsvendas.netlify.app/dashboard">Netlify</a></p>
+<p> Back end API deployed at <a target="_blank" href="https://dashboard.heroku.com/apps/loja-spring-boot-andre">Heroku</a></p>
 
 <a href="https://github.com/andreltcarvalho"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/53447567?s=460&v=4" width="100px;"   alt=""/><br /><sub><b>
 André Carvalho</b></sub></a>
