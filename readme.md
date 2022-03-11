@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Dashboard de VEndas</h2>
+<h2>Sales Dashboard in Portuguese</h2>
 </div>
 
 <h2> Used Technologies </h2>
